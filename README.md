@@ -19,4 +19,4 @@ Contains bash commands to get statistics across repositories. And visualizing th
  ./lines-year.sh /Users/irfan/Project/
  ```
 
- *This command will generate "lines-year.json" file *
+ *This command will generate "lines-year.json" file*
