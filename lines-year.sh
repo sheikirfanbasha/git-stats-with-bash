@@ -1,3 +1,4 @@
+#fillNullValues with '0'
 checkAndFillNull(){
     retValue=$1
     if [ "$retValue" = "" ]; then
